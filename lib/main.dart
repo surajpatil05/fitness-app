@@ -4,7 +4,7 @@ import 'package:fitness/pages/home.dart';
 void main() {
   runApp(const MyApp());
 }
-
+// temp 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
